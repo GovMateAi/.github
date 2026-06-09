@@ -1,121 +1,151 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2563eb,100:10b981&height=180&section=header&text=GovMate%20AI&fontSize=48&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:3b82f6&height=200&section=header&text=GovMate%20AI&fontSize=52&fontColor=fff&animation=fadeIn" width="100%"/>
 
-### 🇩🇪 Almanya'daki bürokrasi süreçleriniz için yapay zeka asistanı
+### Yapay zeka destekli dijital ürünler ve açık kaynak ekosistemi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=10B981&center=true&vCenter=true&width=620&lines=Belge+Analizi+%7C+Resmi+Mektup;Jobcenter+%7C+Finanzamt+%7C+Krankenkasse;7+Dil+%7C+PDF+%7C+AI+Mektup" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=60A5FA&center=true&vCenter=true&width=700&lines=Kamu+Teknolojisi+%7C+Eğitim+%7C+İletişim;Geliştirici+Araçları+%7C+Otomotiv+Teşhis;Next.js+%7C+AI+%7C+Mobil+%7C+Cloud" alt="Typing SVG" />
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Web-govmate--ai.vercel.app-2563EB?style=for-the-badge)](https://govmate-ai.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-govmate--ai-181717?style=for-the-badge&logo=github)](https://github.com/GovMateAi/govmate-ai)
-[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)](https://github.com/GovMateAi/govmate-ai)
+[![Website](https://img.shields.io/badge/Web-govmate--ai.vercel.app-1E40AF?style=for-the-badge)](https://govmate-ai.vercel.app)
+[![OstWind](https://img.shields.io/badge/OstWind-frontend.ostwind.az-0EA5E9?style=for-the-badge)](https://frontend.ostwind.az/)
+[![Founder](https://img.shields.io/badge/Kurucu-xeyal9032-181717?style=for-the-badge&logo=github)](https://github.com/xeyal9032)
 
 </div>
 
 ---
 
-## 🏛️ GovMate AI nedir?
+## 🎯 Misyon
 
-**GovMate AI**, Almanya'da yaşayan kullanıcılar için tasarlanmış **yapay zeka destekli bürokrasi asistanıdır**. Resmi belgeleri analiz eder, riskleri özetler ve **profesyonel Almanca yanıt mektupları** üretir.
+**GovMate AI**, Khayal Cemilli (*xeyal9032*) tarafından kurulan bir **ürün ve Ar-Ge organizasyonudur**. Kamu hizmetlerinden eğitime, iletişimden geliştirici araçlarına kadar — gerçek hayat problemlerine **yapay zeka ve modern yazılım** ile çözüm üretiriz.
 
-> Bu proje yasal danışmanlık sunmaz. Üretilen metinler bilgilendirme amaçlıdır; önemli kararlar için yetkili mercilere veya danışmana başvurun.
-
----
-
-## ✨ Öne çıkan özellikler
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📄 Belge analizi
-- PDF, görsel ve metin desteği
-- AI özet, risk ve önerilen adımlar
-- Otomatik deadline hatırlatma
-
-</td>
-<td width="50%" valign="top">
-
-### ✉️ Resmi mektup
-- Profesyonel Almanca yanıt
-- Otomatik mektup tipi seçimi
-- PDF indirme / e-posta
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🗂️ 39+ şablon
-Jobcenter · BAMF · Finanzamt · Krankenkasse · Mietvertrag · Schule ve daha fazlası
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 7 dil
-TR · DE · EN · AZ · RU · UK · AR — arayüz ve AI yanıtları
-
-</td>
-</tr>
-</table>
+> Tek bir uygulama değil; bağlantılı bir ürün ailesi ve açık kaynak ekosistemi.
 
 ---
 
-## 🛠️ Teknoloji
+## 📦 Ürün portföyü
 
-| Katman | Stack |
-|--------|--------|
-| Frontend | Next.js 16, React 19, TypeScript, Tailwind CSS 4 |
-| Backend | Supabase (Auth, PostgreSQL, Storage) |
-| AI | OpenAI API |
-| Ödeme | Stripe Billing |
-| E-posta | Resend |
-| Deploy | Vercel |
+### 🏛️ Kamu & Sivil Teknoloji
+
+| Proje | Açıklama | Repo |
+|-------|----------|------|
+| **GovMate** | Almanya'daki bürokrasi süreçleri için AI asistan — belge analizi, resmi mektup | [`govmate-ai`](https://github.com/GovMateAi/govmate-ai) |
+
+### 🤖 Yapay Zeka & Deneyim
+
+| Proje | Açıklama | Repo |
+|-------|----------|------|
+| **Nova & Milo** | Sci-Fi AI giriş portalı, Gemini sohbet, Electron masaüstü | [`nova-milo`](https://github.com/GovMateAi/nova-milo) |
+| **OstWind AI** | Google AI entegrasyonlu modern sohbet uygulaması | [`ostwindgroup-ai`](https://github.com/xeyal9032/ostwindgroup-ai) |
+| **Xeyal System** | Otonom geliştirici OS + AI hata zekâsı platformu | [`xeyal-system`](https://github.com/GovMateAi/xeyal-system) |
+
+### 🎓 Eğitim & Danışmanlık
+
+| Proje | Açıklama | Repo |
+|-------|----------|------|
+| **OstWind Group** | Çok dilli uluslararası eğitim danışmanlığı platformu | [`ostwind`](https://github.com/GovMateAi/ostwind) |
+| **OstWind Web** | Kurumsal web sitesi | [`ostwindgroup-website`](https://github.com/xeyal9032/ostwindgroup-website) |
+
+### 💬 İletişim & Mobil
+
+| Proje | Açıklama | Repo |
+|-------|----------|------|
+| **ProgramChat** | Offline-first Android mesajlaşma — E2EE, WebRTC, Socket.IO | [`ProgramChat`](https://github.com/GovMateAi/ProgramChat) |
+
+### 🔧 Otomotiv & Donanım
+
+| Proje | Açıklama | Repo |
+|-------|----------|------|
+| **BMW Pro Diagnostic** | BMW X1 E84 yerel OBD-II / UDS teşhis konsolu + Gemini AI | [`bmw-pro-diagnostic`](https://github.com/GovMateAi/bmw-pro-diagnostic) |
+
+### 🌐 Ajans & Web
+
+| Proje | Açıklama | Repo |
+|-------|----------|------|
+| **NextCode Group** | Dijital pazarlama ajansı web sitesi | [`nextcode-group-website`](https://github.com/xeyal9032/nextcode-group-website) |
 
 ---
 
-## 📦 Repolar
+## 🧭 Ekosistem
 
-| Repo | Açıklama |
-|------|----------|
-| [**govmate-ai**](https://github.com/GovMateAi/govmate-ai) | Ana web uygulaması — dashboard, admin, API |
+```mermaid
+graph TB
+    subgraph GovMateAi["GovMate AI Organizasyonu"]
+        GM[govmate-ai]
+        NM[nova-milo]
+        OW[ostwind]
+        PC[ProgramChat]
+        BMW[bmw-pro-diagnostic]
+        XS[xeyal-system]
+    end
 
----
+    subgraph Partner["İlişkili projeler"]
+        OWA[ostwindgroup-ai]
+        OWW[ostwindgroup-website]
+        NC[nextcode-group-website]
+    end
 
-## 🚀 Hızlı başlangıç
-
-```bash
-git clone https://github.com/GovMateAi/govmate-ai.git
-cd govmate-ai
-npm install
-cp .env.example .env.local
-npm run dev
+    Founder["Khayal · xeyal9032"] --> GovMateAi
+    Founder --> Partner
+    GM --> NM
+    OW --> OWA
+    OW --> OWW
 ```
 
-Tarayıcı: **http://localhost:3000**
+---
+
+## 🛠️ Teknoloji yaklaşımı
+
+| Alan | Tercih ettiğimiz stack |
+|------|------------------------|
+| **Web** | Next.js, React, TypeScript, Tailwind CSS |
+| **Mobil** | Kotlin, Jetpack Compose, Android |
+| **Backend** | Node.js, Supabase, PostgreSQL, Prisma |
+| **AI** | Gemini, OpenAI, Google AI |
+| **Gerçek zamanlı** | Socket.IO, WebRTC |
+| **Masaüstü** | Electron |
+| **Deploy** | Vercel, cloud-native mimari |
+
+Kalite standartları: tip güvenliği, test otomasyonu, güvenli API tasarımı ve kullanıcı odaklı arayüz.
 
 ---
 
-## 🔐 Güvenlik
-
-- Row Level Security (RLS) ile veri izolasyonu
-- Rate limiting ve audit log
-- Vitest + Playwright E2E testleri
-- i18n senkron kontrolü
-
----
-
-## 🤝 İletişim
+## 📊 Organizasyon istatistikleri
 
 <div align="center">
 
-**GovMate AI** — Bürokrasiyi anlaşılır kılıyoruz.
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/orgs/GovMateAi&query=public_repos&label=Public%20Repos&color=1E40AF&style=for-the-badge)](https://github.com/orgs/GovMateAi/repositories)
+[![Followers](https://img.shields.io/github/followers/GovMateAi?label=Followers&style=for-the-badge&color=181717&logo=github)](https://github.com/GovMateAi)
+[![Founder repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/xeyal9032&query=public_repos&label=Kurucu%20Repos&color=3B82F6&style=for-the-badge)](https://github.com/xeyal9032?tab=repositories)
 
-[![GitHub Org](https://img.shields.io/badge/Org-GovMateAi-181717?style=for-the-badge&logo=github)](https://github.com/GovMateAi)
-[![Founder](https://img.shields.io/badge/Founder-xeyal9032-3b60c4?style=for-the-badge&logo=github)](https://github.com/xeyal9032)
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2563eb,100:10b981&height=80&section=footer&text=GovMate%20AI&fontSize=24&fontColor=fff" width="100%"/>
+---
+
+## 🤝 Katkı & iş birliği
+
+- 🐛 Hata bildirimi ve özellik önerileri için ilgili repo'da **Issue** açın
+- 🔀 Pull request'ler her projede ayrı değerlendirilir
+- 📧 İş birliği: **xeyalcemilli9032@gmail.com**
+
+---
+
+## 🔗 Bağlantılar
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| 🏢 **Organizasyon** | [github.com/GovMateAi](https://github.com/GovMateAi) |
+| 👤 **Kurucu** | [github.com/xeyal9032](https://github.com/xeyal9032) |
+| 🌐 **GovMate** | [govmate-ai.vercel.app](https://govmate-ai.vercel.app) |
+| 🎓 **OstWind** | [frontend.ostwind.az](https://frontend.ostwind.az/) |
+
+<br/>
+
+**GovMate AI** — Yapay zekayı herkes için erişilebilir kılıyoruz.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:3b82f6&height=90&section=footer&text=Build%20with%20purpose&fontSize=22&fontColor=fff" width="100%"/>
 
 </div>
