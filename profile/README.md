@@ -28,8 +28,8 @@
 <a href="https://github.com/GovMateAi/nova-milo">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GovMateAi&repo=nova-milo&theme=tokyonight&border_color=1e40af&title_color=60a5fa&icon_color=3b82f6" alt="nova-milo" />
 </a>
-<a href="https://github.com/GovMateAi/ostwind">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GovMateAi&repo=ostwind&theme=tokyonight&border_color=1e40af&title_color=60a5fa&icon_color=3b82f6" alt="ostwind" />
+<a href="https://github.com/xeyal9032/ostwind">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xeyal9032&repo=ostwind&theme=tokyonight&border_color=1e40af&title_color=60a5fa&icon_color=3b82f6" alt="ostwind" />
 </a>
 <a href="https://github.com/GovMateAi/xeyal-system">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GovMateAi&repo=xeyal-system&theme=tokyonight&border_color=1e40af&title_color=60a5fa&icon_color=3b82f6" alt="xeyal-system" />
@@ -67,7 +67,7 @@
 
 | Proje | Açıklama | Repo |
 |-------|----------|------|
-| **OstWind Group** | Çok dilli uluslararası eğitim danışmanlığı platformu | [`ostwind`](https://github.com/GovMateAi/ostwind) |
+| **OstWind Group** | Çok dilli uluslararası eğitim danışmanlığı platformu | [`ostwind`](https://github.com/xeyal9032/ostwind) |
 | **OstWind Web** | Kurumsal web sitesi | [`ostwindgroup-website`](https://github.com/xeyal9032/ostwindgroup-website) |
 
 ### 💬 İletişim & Mobil
