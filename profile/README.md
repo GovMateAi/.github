@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/GovMateAi/.github/main/assets/org-logo.png" alt="GovMate AI" width="140" height="140" style="border-radius: 24px; margin-bottom: 12px;"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:3b82f6&height=200&section=header&text=GovMate%20AI&fontSize=52&fontColor=fff&animation=fadeIn" width="100%"/>
 
 ### Yapay zeka destekli dijital ürünler ve açık kaynak ekosistemi
@@ -11,6 +13,27 @@
 [![Website](https://img.shields.io/badge/Web-govmate--ai.vercel.app-1E40AF?style=for-the-badge)](https://govmate-ai.vercel.app)
 [![OstWind](https://img.shields.io/badge/OstWind-frontend.ostwind.az-0EA5E9?style=for-the-badge)](https://frontend.ostwind.az/)
 [![Founder](https://img.shields.io/badge/Kurucu-xeyal9032-181717?style=for-the-badge&logo=github)](https://github.com/xeyal9032)
+
+</div>
+
+---
+
+## ⭐ Öne çıkan projeler
+
+<div align="center">
+
+<a href="https://github.com/GovMateAi/govmate-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GovMateAi&repo=govmate-ai&theme=tokyonight&border_color=1e40af&title_color=60a5fa&icon_color=3b82f6" alt="govmate-ai" />
+</a>
+<a href="https://github.com/GovMateAi/nova-milo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GovMateAi&repo=nova-milo&theme=tokyonight&border_color=1e40af&title_color=60a5fa&icon_color=3b82f6" alt="nova-milo" />
+</a>
+<a href="https://github.com/GovMateAi/ostwind">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GovMateAi&repo=ostwind&theme=tokyonight&border_color=1e40af&title_color=60a5fa&icon_color=3b82f6" alt="ostwind" />
+</a>
+<a href="https://github.com/GovMateAi/xeyal-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GovMateAi&repo=xeyal-system&theme=tokyonight&border_color=1e40af&title_color=60a5fa&icon_color=3b82f6" alt="xeyal-system" />
+</a>
 
 </div>
 
