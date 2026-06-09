@@ -22,8 +22,8 @@
 
 <div align="center">
 
-<a href="https://github.com/GovMateAi/govmate-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GovMateAi&repo=govmate-ai&theme=tokyonight&border_color=1e40af&title_color=60a5fa&icon_color=3b82f6" alt="govmate-ai" />
+<a href="https://github.com/xeyal9032/govmate-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xeyal9032&repo=govmate-ai&theme=tokyonight&border_color=1e40af&title_color=60a5fa&icon_color=3b82f6" alt="govmate-ai" />
 </a>
 <a href="https://github.com/GovMateAi/nova-milo">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GovMateAi&repo=nova-milo&theme=tokyonight&border_color=1e40af&title_color=60a5fa&icon_color=3b82f6" alt="nova-milo" />
@@ -53,7 +53,7 @@
 
 | Proje | Açıklama | Repo |
 |-------|----------|------|
-| **GovMate** | Almanya'daki bürokrasi süreçleri için AI asistan — belge analizi, resmi mektup | [`govmate-ai`](https://github.com/GovMateAi/govmate-ai) |
+| **GovMate** | Almanya'daki bürokrasi süreçleri için AI asistan — belge analizi, resmi mektup | [`govmate-ai`](https://github.com/xeyal9032/govmate-ai) |
 
 ### 🤖 Yapay Zeka & Deneyim
 
